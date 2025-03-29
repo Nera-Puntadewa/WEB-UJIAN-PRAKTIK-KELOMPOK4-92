@@ -1,0 +1,68 @@
+ <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Abstract</a>
+                <li>
+                    <a href="#">Pendahuluan<i class="fas fa-caret-down"></i></a>
+                    <div class="dropdown__menu">
+                        <ul>
+                            <li><a href="latblkg.html">Latar Belakang</a></li>
+                            <li><a href="tujuan.html">Tujuan</a></li>
+                            <li><a href="manfaat.html">Manfaat</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">Rencana Kegiatan<i class="fas fa-caret-down"></i> </a>
+                    <div class="dropdown__menu">
+                        <ul>
+                            <li><a href="produksi.html">Perencanaan Produksi</a></li>
+                            <li><a href="promosi.html">Perencanaan Promosi</a></li>
+                            <li><a href="booth.html">Perencanaan Booth</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">Hasil Kegiatan<i class="fas fa-caret-down"></i> </a>
+                    <div class="dropdown__menu">
+                        <ul>
+                            <li><a href="lappelaksanaan.html">Laporan Pelaksanaan</a></li>
+                            <li><a href="lapkeuangan.html">Laporan Keuangan</a></li>
+                            <li><a href="statistikjualan.html">Statistik Jualan</a></li>
+                            <li><a href="refleksikegiatan.html">Refleksi Kegiatan</a></li>
+                            <li><a href="bioteknologi.html">Video Proses Pembuatan</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">Penutup<i class="fas fa-caret-down"></i> </a>
+                    <div class="dropdown__menu">
+                        <ul>
+                            <li><a href="kesimpulan.html">Kesimpulan</a></li>
+                            <li><a href="saran.html">Saran</a></li>
+                            <li><a href="daftarpustaka.html">Daftar Pustaka</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="lampiran.html">Lampiran</a></li>
+                <li><a href="powerpoint.html">PPT</a></li>
+            </ul>
+        </div>
+        <div class="column side">
+            <h2 align="center"> JAVAJAWS CREWS </h2>
+            <p align="center">
+                <img src="" height="100" width="200">
+                <img src="" height="100" width="200">
+                <img src="" height="100" width="200">
+            </p>
+        </div>
+        <div class="column middle">
+            <h2 align="center"> CREWS </h2>
+            <h2 align="center">  </h2>
+            <br> </br>
+        </div>
+        <div class="menu__bar">
+            <h1 class="footer"> "Melestarikan Tradisi, Anak Muda Beraksi" </h1>
+        </div>
+    </body>
+</html>
+
+<img class="logo" src="">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" />
